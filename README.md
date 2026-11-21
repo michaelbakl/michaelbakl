@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @michaelbakl
-- 👀 I’m interested in Java, Web development, Spring
-- 🌱 I’m currently learning Spring Boot
+- 👀 I’m interested in Java, Kotlin, Web development, Spring
 - 📫 How to reach me https://t.me/michaelbaklykov
